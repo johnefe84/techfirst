@@ -1,0 +1,70 @@
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/BlogTest.API.csproj.AssemblyReference.cache
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/BlogTest.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/BlogTest.API.AssemblyInfoInputs.cache
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/BlogTest.API.AssemblyInfo.cs
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/BlogTest.API.csproj.CoreCompileInputs.cache
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/BlogTest.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/BlogTest.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/appsettings.json
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/BlogTest.API
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/BlogTest.API.deps.json
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/BlogTest.API.runtimeconfig.json
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/BlogTest.API.dll
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/BlogTest.API.pdb
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/staticwebassets/msbuild.BlogTest.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/staticwebassets/msbuild.build.BlogTest.API.props
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BlogTest.API.props
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BlogTest.API.props
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/scopedcss/bundle/BlogTest.API.styles.css
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/BlogTest.API.csproj.CopyComplete
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/BlogTest.API.dll
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/refint/BlogTest.API.dll
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/BlogTest.API.pdb
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/BlogTest.API.genruntimeconfig.cache
+/Users/johnefe/source_code/DotNetCore/Ex_Files_Building_Web_APIs_ASP_NET_Core_dot_NET_6/Exercise Files/End_0308/HPlusSport/HPlusSport.API/obj/Debug/net6.0/ref/BlogTest.API.dll
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/appsettings.json
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/BlogTest.API
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/BlogTest.API.deps.json
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/BlogTest.API.runtimeconfig.json
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/BlogTest.API.dll
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/BlogTest.API.pdb
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/BlogTest.API.csproj.AssemblyReference.cache
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/BlogTest.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/BlogTest.API.AssemblyInfoInputs.cache
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/BlogTest.API.AssemblyInfo.cs
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/BlogTest.API.csproj.CoreCompileInputs.cache
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/BlogTest.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/BlogTest.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/staticwebassets/msbuild.BlogTest.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/staticwebassets/msbuild.build.BlogTest.API.props
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BlogTest.API.props
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BlogTest.API.props
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/scopedcss/bundle/BlogTest.API.styles.css
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/BlogTest.API.csproj.CopyComplete
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/BlogTest.API.dll
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/refint/BlogTest.API.dll
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/BlogTest.API.pdb
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/BlogTest.API.genruntimeconfig.cache
+/Users/johnefe/source_code/DotNetCore/TechFirstTest-DotNet/BlogTest.API/obj/Debug/net6.0/ref/BlogTest.API.dll
