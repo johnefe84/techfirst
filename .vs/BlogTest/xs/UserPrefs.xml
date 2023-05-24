@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{049BD8CC-BC92-4FDE-82C1-D8B302BAB736}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlogTest.API/Service/BlogService.cs">
+    <Files>
+      <File FileName="BlogTest.API/Models/Category.cs" Line="10" Column="54" IsPinned="True" />
+      <File FileName="BlogTest.API/Controllers/BlogController.cs" Line="46" Column="35" />
+      <File FileName="BlogTest.API/Controllers/CategoryController.cs" Line="21" Column="42" />
+      <File FileName="BlogTest.API/Service/CategoryService.cs" Line="1" Column="1" />
+      <File FileName="BlogTest.API/Service/BlogService.cs" Line="45" Column="10" />
+      <File FileName="BlogTest.API/Program.cs" Line="9" Column="34" />
+      <File FileName="BlogTest.API/appsettings.json" Line="1" Column="1" />
+      <File FileName="BlogTest.API/Repository/BlogContext.cs" Line="7" Column="1" />
+      <File FileName="BlogTest.API/Properties/launchSettings.json" Line="14" Column="29" />
+      <File FileName="BlogTest.API/Models/ModelBuilderExtensions.cs" Line="1" Column="1" />
+      <File FileName="BlogTest.API/Models/Blog.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlogTest" expanded="True" selected="True">
+            <Node name="BlogTest.API" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="Service" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BlogTest.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <AuthorInfo Name="John Franklin Ruiz Neira" Email="johnefe84@gmail.com" Copyright="" Company="Tech First" Trademark="" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
